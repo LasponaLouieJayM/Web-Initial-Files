@@ -1,0 +1,125 @@
+.logo {
+    width: 0;
+    height: 0;
+}
+form {
+    width: 540px;
+    height: 575px;
+    margin-left: 5%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+  
+    box-shadow: 5px 5px 5px 0px #000000aa;
+    border-radius: 15px;
+    border: 1px solid rgb(146, 144, 144);
+    background: black;
+  
+    z-index: 10;
+  }
+
+  #card {
+    color: #ffffff;
+    width: 870px;
+    border-radius: 5px;
+    background: transparent;
+    height: 40px;
+    border: px solid #969696;
+    font-size: 35px;
+    margin-left: 235px;
+    margin-top: 10px;
+    padding-left: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+.fold {
+  width: 18cm;
+  height: 9cm;
+  position: static;
+  background-position:center;
+}
+  
+  #card1 {
+    color: #ffffff;
+    width: 200px;
+    border-radius: 5px;
+    background: transparent;
+    height: 25px;
+    border: px solid #000000;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 10px;
+    padding-left: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+
+   
+  #card2 {
+    color: #ffffff;
+    width: 200px;
+    border-radius: 5px;
+    background: transparent;
+    height: 50px;
+    border: px solid #00bd35;
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: 20px;
+    padding-left: 10px;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  #card3 {
+    color: #000000;
+    width: 200px;
+    border-radius: 5px;
+    background: transparent;
+    height: 320px;
+    border: 0px solid #000000;
+    font-size: 0px;
+    margin-left: 250px;
+    margin-top: -2px;
+    padding-left: 20px;
+  }
+
+  #card4 {
+    color: #2fff05;
+    width: 2000px;
+    border-radius: 5px;
+    background: transparent;
+    height: 25px;
+    border: px solid #000000;
+    margin-left: 350px;
+    margin-top: 50px;
+    padding-left: 20px;
+    justify-content: center;
+  }
+
+  * {
+    margin: 0px;
+    padding: 0px;
+    
+    font-family: 'Poppins', sans-serif;
+  }
+  .background {
+    width: 100x;
+    height: 100vh;
+    background-image: url(img.png);
+   background-color: #00bd35;
+    background-size: auto;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+  }
+
+  .body{
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    background-color: #00bd35;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+}
